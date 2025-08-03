@@ -3,9 +3,11 @@
 I'm a passionate Full Stack Developer who loves building modern, scalable, and secure web applications.
 
 ## 🛠️ Tech Stack
-- **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS  
-- **Backend**: Node.js, Express.js, Supabase  
-- **CMS & Tools**: Sanity CMS, Git, REST APIs  
+- **Frontend**: React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS  
+- **Backend**: Node.js, Express.js
+- **Framework**: Next js
+- **CMS & Tools**: Sanity CMS, Git, REST APIs
+- **Backend-as-a-Service (BaaS)**: Supabase, Appwrite
 
 ## 💡 What I Do
 - Develop responsive and high-performance web applications  
