@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Soumya Ranjan Maharana</h1>
-<p align="center">
-  Full Stack Developer • Next.js • React • Supabase • Sanity CMS • Tailwind CSS
-</p>
+<table>
+  <tr>
+    <td width="150">
+      <img src="https://github.com/srmaharana1999/srmaharana1999/blob/main/2.png" alt="Logo" width="120"/>
+    </td>
+    <td>
+      <h1>Soumya Ranjan Maharana</h1>
+      <p><strong>Full Stack Developer</strong></p>
+      <p>
+        React • Next.js • TypeScript • JavaScript • Tailwind CSS • Node.js • Supabase • Sanity CMS
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
