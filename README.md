@@ -52,9 +52,3 @@ Sanity CMS • Git • REST APIs
 - 📚 Master serverless architecture and backend scaling  
 - 👨‍💻 Contribute to open-source and freelance projects  
 - 🚧 Explore automation, CI/CD, and advanced backend patterns
-
----
-
-### 📍 Location
-
-Bhubaneswar, India
