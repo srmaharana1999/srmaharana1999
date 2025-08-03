@@ -39,7 +39,8 @@ Sanity CMS • Git • REST APIs
 ---
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srmaharana1999&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api?username=srmaharana1999&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmaharana1999&layout=compact&hide=jupyter%20notebook&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srmaharana1999&theme=tokyonight" />
+  
 </div>
