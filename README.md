@@ -38,17 +38,8 @@ Sanity CMS • Git • REST APIs
 
 ---
 
-### 💡 What I Do
-
-- ✨ Build fast and responsive web apps with modern frameworks  
-- 🔗 Integrate APIs, headless CMS, and BaaS for scalable architecture  
-- 🧠 Solve real-world problems with clean, maintainable code  
-- 📱 Focus on UI/UX and performance optimization
-
----
-
-### 🎯 Current Goals
-
-- 📚 Master serverless architecture and backend scaling  
-- 👨‍💻 Contribute to open-source and freelance projects  
-- 🚧 Explore automation, CI/CD, and advanced backend patterns
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srmaharana1999&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmaharana1999&layout=compact&hide=jupyter%20notebook&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srmaharana1999&theme=tokyonight" />
+</div>
