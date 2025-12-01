@@ -30,11 +30,17 @@ React • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML • CS
 **Backend:**  
 Node.js • Express.js
 
+**DataBase Skill:**  
+SQL • MongoDB • PostgreSQL
+
+**Programming Language:**  
+C • JAVA • JavaScript • C++
+
 **Backend-as-a-Service:**  
 Supabase • Appwrite
 
 **CMS & Tools:**  
-Sanity CMS • Git • REST APIs
+Sanity CMS • Git • REST APIs • Docker • Directus
 
 ---
 
